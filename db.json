@@ -1,0 +1,298 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 6,
+      "nombre": "Emmanuel",
+      "telefono": 1398198938,
+      "email": "emmanuel@bysmax.com",
+      "empresa": "BysMax"
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 7
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 8
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 9
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 10
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 11
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 12
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 13
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 14
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 15
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 16
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 17
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 18
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 19
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 20
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 21
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 22
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 23
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 24
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 25
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 26
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 27
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 28
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 29
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 30
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 31
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 32
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 33
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 34
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 35
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 36
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 37
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 38
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 39
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 40
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 41
+    },
+    {
+      "nombre": "Emmanuel Diaz Leal Hernandez",
+      "telefono": "8126060795",
+      "email": "e805177@gmail.com",
+      "empresa": "BysMax",
+      "id": 42
+    }
+  ]
+}
